@@ -1,0 +1,47 @@
+@media (max-width: 34em) {
+  /************************************/
+  .nav-header {
+    display: flex;
+    justify-content: center;
+  }
+  .nav-link {
+    padding-left: 1rem;
+    padding-right: 6rem;
+    padding-top: 1.25rem;
+    padding-bottom: 1.25rem;
+    font-size: 1rem;
+  }
+  .nav-header img {
+    width: 80px;
+    height: 50px;
+    margin-right: 9px;
+  }
+
+  .section-hero {
+    max-width: 120rem;
+  }
+  .links {
+    display: none;
+  }
+  .subeading {
+    align-items: center;
+  }
+  .flex-nav {
+    display: block;
+  }
+  .flex {
+    display: block;
+  }
+  .nav-header {
+    padding-right: px;
+    height: 139px;
+    width: 437px;
+    padding-left: 12px;
+  }
+  .heading {
+    font-size: 1rem;
+  }
+  .hero-img {
+    width: 60%;
+  }
+}
